@@ -169,6 +169,13 @@ campus-companion/
 
 ## 🎨 Screenshots
 
+<img width="1903" height="915" alt="image" src="https://github.com/user-attachments/assets/d073eae6-1673-41c0-a1cc-c67630b9dac0" />
+<img width="759" height="917" alt="image" src="https://github.com/user-attachments/assets/f71bab77-bbe7-4928-beb1-1fcdba8fd891" />
+<img width="731" height="924" alt="image" src="https://github.com/user-attachments/assets/e003fcd9-411c-42c7-8b18-6edb9e86a868" />
+<img width="507" height="925" alt="image" src="https://github.com/user-attachments/assets/b7a36595-4ead-444c-b801-cbbe0db6700f" />
+<img width="545" height="920" alt="image" src="https://github.com/user-attachments/assets/96168deb-743f-480a-bbc1-a34a394e6a2d" />
+<img width="524" height="924" alt="image" src="https://github.com/user-attachments/assets/2096a0fa-de62-4c2a-af05-49bf651c4000" />
+
 ### Landing Page
 Beautiful gradient hero with feature overview and trust indicators.
 
